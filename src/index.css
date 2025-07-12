@@ -1,0 +1,12 @@
+
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-[#0B0E16]; /* ou bg-tech-background si défini */
+}
