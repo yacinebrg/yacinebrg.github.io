@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [
     react(),
   ],
+  base: '/',  // Assure-toi que le chemin de base est défini correctement
 })
