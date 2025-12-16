@@ -9,19 +9,19 @@ function HomePage() {
   return (
     <div className="text-white min-h-screen overflow-hidden">
 
-      <section className="bg-[#0B0E16]">
+      <section className="bg-[#111927] py-24">
         <Hero />
       </section>
 
-      <div className="h-px bg-[#2B2F3A] w-full" />
+      {/*<div className="h-[1px] w-screen bg-[#d8dbe2]" />*/}
 
       <section className="bg-[#111826]">
         <Projects />
       </section>
 
-      <div className="h-px bg-[#2B2F3A] w-full" />
+      <div className="h-[1px] w-screen bg-[#d8dbe2]" />
 
-      <section className="bg-[#1A2233]">
+      <section className="bg-[#111927]">
         <Contact />
       </section>
     </div>

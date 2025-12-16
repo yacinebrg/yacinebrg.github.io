@@ -21,7 +21,7 @@ export default {
       
       
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Rubik', 'sans-serif'],
         mono: ['IBM Plex Mono', 'monospace'],
         krushnadevaraya: ['"Sree Krushnadevaraya"', 'serif'],
       }
